@@ -1,0 +1,2 @@
+Display idzie po serialu: /dev/ttyGS0
+UART chyba na /dev/ttyS2
